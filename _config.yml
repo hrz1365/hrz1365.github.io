@@ -1,0 +1,37 @@
+title: Hamid Zoraghein
+description: Data Scientist | ML, RAG, Energy & Climate Analytics
+url: https://hrz1365.github.io
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Author info
+author:
+  name: "Hamid Zoraghein"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Scientist focused on predictive modeling, geospatial analytics, and intelligent decision systems."
+  location: "United States"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/hrz1365"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/hamidz"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@email.com"
+
+# Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+include:
+  - "_pages"
