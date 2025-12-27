@@ -5,47 +5,66 @@ permalink: /
 author_profile: true
 ---
 
-## 👋 Welcome
+### Data Scientist · Machine Learning · Energy & Climate Analytics
 
-I’m a **Data Scientist** working at the intersection of **machine learning, geospatial analysis, and energy systems**.
+I build **predictive, geospatial, and language-model–driven systems** to support
+**infrastructure planning, energy transition, and climate-related decision-making**.
 
-I design predictive models and intelligent tools that turn complex data into **actionable insights for infrastructure planning and decision-making**.
+With over **10 years of experience**, my work sits at the intersection of
+data science, domain expertise, and real-world impact — translating complex data
+into **actionable insights for governments, utilities, and global organizations**.
 
 ---
 
 ## 🔍 What I Work On
 
-- Predictive modeling & forecasting (XGBoost, deep learning)
-- Retrieval-Augmented Generation (RAG) systems
-- Geospatial & energy analytics
-- Scalable data pipelines & MLOps
+- **Predictive modeling & forecasting** for energy, transportation, and infrastructure systems  
+- **Geospatial analytics** across large spatial and temporal scales  
+- **Retrieval-Augmented Generation (RAG)** for interpreting technical and policy reports  
+- **Decision-support tools** that balance rigor, uncertainty, and practicality  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-### **EVRAG — Context-Driven RAG Pipeline**
-A modular RAG system for generating insights on EV charging from industry reports.
+**EVRAG — Context-Driven RAG for EV Charging**  
+A modular Retrieval-Augmented Generation pipeline that produces grounded insights
+from EV charging reports using LangChain, FAISS, and DeepEval.  
+→ [View Project](./projects/)
 
-**Tech:** Python, LangChain, FAISS, Transformers, DeepEval, Docker  
-🔗 [GitHub Repository](https://github.com/hrz1365/evrag)
+**Grid Infrastructure Forecasting**  
+Predictive and spatial models to support proactive grid planning under fleet
+electrification and future demand scenarios.  
+→ [View Project](./projects/)
+
+**NYC Climate Vulnerability Modeling**  
+Spatial deep learning models for high-resolution population vulnerability analysis;
+accepted for publication in *PNAS*.  
+→ [View Papers](./papers/)
 
 ---
 
-### **Grid Infrastructure Forecasting**
-Predictive models for proactive grid planning under fleet electrification scenarios.
+## 🧠 How I Approach Problems
 
-**Tech:** Python, TensorFlow, Rasterio, Geospatial ML  
-🔗 [GitHub Repository](https://github.com/hrz1365/grid-forecasting)
+I focus on **trustworthy, interpretable modeling** — especially where decisions
+have long-term consequences. My work emphasizes:
+
+- understanding system behavior, not just prediction accuracy  
+- integrating spatial and temporal context  
+- communicating results clearly to technical and non-technical stakeholders  
 
 ---
 
-## 📄 Resume
-📥 [Download Resume (PDF)](/assets/resume.pdf)
+## 📌 Highlights
+
+- 10+ years of applied data science experience  
+- Published research in *Proceedings of the National Academy of Sciences (PNAS)*  
+- Experience across energy, climate, population, and infrastructure domains  
 
 ---
 
 ## 📬 Get in Touch
-- GitHub: https://github.com/hrz1365  
-- LinkedIn: https://linkedin.com/in/hamidz  
-- Email: you@email.com
+
+- 📄 [Download Resume](assets/Zoraghein_Resume.pdf)  
+- 💻 [GitHub](https://github.com/hrz1365)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hzoraghein/)  
