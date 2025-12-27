@@ -14,6 +14,9 @@ author:
   bio: "Data Scientist focused on predictive modeling, geospatial analytics, and intelligent decision systems."
   location: "United States"
   links:
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "/assets/resume.pdf"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/hrz1365"
