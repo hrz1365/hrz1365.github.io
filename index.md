@@ -35,12 +35,12 @@ to understand system behavior under uncertainty and future scenarios.
 **Northeast Freight Corridor Charging Plan**  
 Predictive and simulation-based modeling to support proactive grid planning under
 fleet electrification and future demand scenarios for utilities in the Northeast U.S.  
-→ [View Projects](./projects/)
+→ [View Project](./projects/)
 
 **NYC Climate Vulnerability Modeling**  
 Spatial deep learning and simulation frameworks for high-resolution population
 vulnerability analysis; accepted for publication in *PNAS*.  
-→ [View Projects](./projects/)
+→ [View Project](./projects/)
 
 **EVRAG — Language Language Models for Model Interpretation (Side Project)**  
 A Retrieval-Augmented Generation pipeline designed to help interpret and
@@ -79,6 +79,6 @@ when working with complex documentation and unstructured information.
 
 ## 📬 Get in Touch
 
-- 📄 [Download Resume](assets/resume.pdf)  
+- 📄 [See Resume](assets/resume.pdf)  
 - 💻 [GitHub](https://github.com/hrz1365)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hzoraghein/)   
