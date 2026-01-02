@@ -3,7 +3,5 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
-  - title: "Papers"
-    url: /papers/
   - title: "About"
     url: /about/
