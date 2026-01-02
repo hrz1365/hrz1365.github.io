@@ -3,8 +3,6 @@ layout: single
 title: "Hi, I’m Hamid"
 permalink: /
 author_profile: true
-<meta name="description" content="Hamidreza Zoraghein – Data Scientist specializing in predictive modeling, simulation, geospatial analytics, and energy & climate systems." />
-<meta name="author" content="Hamidreza Zoraghein" />
 ---
 
 ### Data Scientist · Predictive Modeling · LLMs · Energy & Climate Systems
