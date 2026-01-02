@@ -5,61 +5,75 @@ permalink: /
 author_profile: true
 ---
 
-### Data Scientist · Machine Learning · Energy & Climate Analytics
+### Data Scientist · Predictive Modeling · LLMs · Energy & Climate Systems
 
-I build **predictive, geospatial, and language-model–driven systems** to support
-**infrastructure planning, energy transition, and climate-related decision-making**.
+I design **predictive models and simulation-based analytics** to support
+**long-term planning and decision-making** in energy, transportation, public health, and
+climate-related systems.
 
-With over **10 years of experience**, my work sits at the intersection of
-data science, domain expertise, and real-world impact — translating complex data
-into **actionable insights for governments, utilities, and global organizations**.
+I also generate **AI-enabled** pipelines based on **Large Language Models** to generate insights 
+and improve evidence-based understanding.
 
----
-
-## 🔍 What I Work On
-
-- **Predictive modeling & forecasting** for energy, transportation, and infrastructure systems  
-- **Geospatial analytics** across large spatial and temporal scales  
-- **Retrieval-Augmented Generation (RAG)** for interpreting technical and policy reports  
-- **Decision-support tools** that balance rigor, uncertainty, and practicality  
+With over **10 years of experience**, my work focuses on combining
+**machine learning, statistical modeling, and spatial analysis**
+to understand system behavior under uncertainty and future scenarios.
 
 ---
 
-## 🚀 Featured Work
+## 🔍 Core Areas of Focus
 
-**EVRAG — Context-Driven RAG for EV Charging**  
-A modular Retrieval-Augmented Generation pipeline that produces grounded insights
-from EV charging reports using LangChain, FAISS, and DeepEval.  
-→ [View Project](./projects/)
+- **Predictive modeling & forecasting** using machine learning and simulation
+- **LLMs** using Retrieval-Augmented Generation (RAG), fine-tuning, and prompt engineering  
+- **Scenario analysis** for energy demand, electrification, and infrastructure planning  
+- **Geospatial modeling** across large spatial and temporal scales  
+- **Uncertainty-aware analytics** to support real-world decisions  
+
+---
+
+## 🚀 Selected Work
 
 **Grid Infrastructure Forecasting**  
-Predictive and spatial models to support proactive grid planning under fleet
-electrification and future demand scenarios.  
-→ [View Project](./projects/)
+Predictive and simulation-based models to support proactive grid planning under
+fleet electrification and future demand scenarios.  
+→ [View Projects](./projects/)
 
 **NYC Climate Vulnerability Modeling**  
-Spatial deep learning models for high-resolution population vulnerability analysis;
-accepted for publication in *PNAS*.  
+Spatial deep learning and simulation frameworks for high-resolution population
+vulnerability analysis; accepted for publication in *PNAS*.  
 → [View Papers](./papers/)
+
+**EVRAG — Language Models for Model Interpretation (Side Project)**  
+A Retrieval-Augmented Generation pipeline designed to help interpret and
+communicate results from technical EV charging reports.
+Language models are used as a **supporting layer**, not a replacement for
+quantitative modeling.  
+→ [View Project](./projects/)
+
+**AI-enabled COVID-19 forecasting**  
+End-to-end machine learning workflow using XGBoost and LSTM to generate weekly forecasts of COVID-19 incidence rates at U.S. county level.
+→ [View Project](./projects/)
 
 ---
 
-## 🧠 How I Approach Problems
+## 🧠 Modeling Philosophy
 
-I focus on **trustworthy, interpretable modeling** — especially where decisions
-have long-term consequences. My work emphasizes:
+My approach emphasizes **understanding systems, not just fitting models**.
+I prioritize:
 
-- understanding system behavior, not just prediction accuracy  
-- integrating spatial and temporal context  
-- communicating results clearly to technical and non-technical stakeholders  
+- interpretability and transparency over black-box accuracy  
+- simulation and scenario exploration alongside machine learning  
+- models that inform planning decisions, not just predictions  
+
+Language models are used selectively to **augment analysis and interpretation**
+when working with complex documentation and unstructured information.
 
 ---
 
 ## 📌 Highlights
 
-- 10+ years of applied data science experience  
-- Published research in *Proceedings of the National Academy of Sciences (PNAS)*  
-- Experience across energy, climate, population, and infrastructure domains  
+- 10+ years of applied experience in predictive modeling and simulation  
+- Published research in *Proceedings of the National Academy of Sciences (PNAS)* and *Nature Communications* 
+- Work spanning energy systems, climate impacts, population dynamics, and public health  
 
 ---
 
@@ -67,4 +81,4 @@ have long-term consequences. My work emphasizes:
 
 - 📄 [Download Resume](assets/Zoraghein_Resume.pdf)  
 - 💻 [GitHub](https://github.com/hrz1365)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hzoraghein/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hzoraghein/)   
