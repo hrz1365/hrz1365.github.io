@@ -60,7 +60,8 @@ quantitative modeling rather than replacing it.
 - Implemented evaluation metrics to assess faithfulness, relevance, and
   correctness  
 - Integrated the system into a workflow for summarizing and contextualizing
-  technical analyses  
+  technical analyses
+- Containerized and operationalized the pipeline using Docker, with CI/CD automation via GitHub Actions and an interactive Streamlit interface  
 
 **Methods & tools:**  
 Python, LangChain, FAISS, Transformers, DeepEval, Docker, Github Actions  
