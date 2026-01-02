@@ -32,9 +32,9 @@ to understand system behavior under uncertainty and future scenarios.
 
 ## 🚀 Selected Work
 
-**Grid Infrastructure Forecasting**  
-Predictive and simulation-based models to support proactive grid planning under
-fleet electrification and future demand scenarios.  
+**Northeast Freight Corridor Charging Plan**  
+Predictive and simulation-based modeling to support proactive grid planning under
+fleet electrification and future demand scenarios for utilities in the Northeast U.S.  
 → [View Projects](./projects/)
 
 **NYC Climate Vulnerability Modeling**  
