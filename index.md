@@ -40,9 +40,9 @@ fleet electrification and future demand scenarios for utilities in the Northeast
 **NYC Climate Vulnerability Modeling**  
 Spatial deep learning and simulation frameworks for high-resolution population
 vulnerability analysis; accepted for publication in *PNAS*.  
-→ [View Papers](./papers/)
+→ [View Projects](./projects/)
 
-**EVRAG — Language Models for Model Interpretation (Side Project)**  
+**EVRAG — Language Language Models for Model Interpretation (Side Project)**  
 A Retrieval-Augmented Generation pipeline designed to help interpret and
 communicate results from technical EV charging reports.
 Language models are used as a **supporting layer**, not a replacement for
@@ -79,6 +79,6 @@ when working with complex documentation and unstructured information.
 
 ## 📬 Get in Touch
 
-- 📄 [Download Resume](assets/Zoraghein_Resume.pdf)  
+- 📄 [Download Resume](assets/resume.pdf)  
 - 💻 [GitHub](https://github.com/hrz1365)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/hzoraghein/)   
