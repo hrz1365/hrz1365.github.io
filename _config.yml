@@ -12,7 +12,7 @@ plugins:
 author:
   name: "Hamidreza Zoraghein"
   avatar: "/assets/images/profile.jpg"
-  bio: "Data Scientist focused on predictive modeling, geospatial analytics, and intelligent decision systems."
+  bio: "Data Scientist focused on predictive modeling, LLMs, geospatial analytics, and intelligent decision systems."
   location: "United States"
   links:
     - label: "Resume"
