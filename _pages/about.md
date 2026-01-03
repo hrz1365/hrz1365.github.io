@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
+description: "Background, modeling philosophy, and professional focus of Hamidreza Zoraghein, a data scientist specializing in predictive modeling, large language models, and simulation."
 ---
 
 I’m a data scientist with over **10 years of experience** applying predictive
