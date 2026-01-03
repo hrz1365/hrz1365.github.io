@@ -3,6 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: true
+description: "Selected projects in predictive modeling, simulation, machine learning, and decision-support systems across energy, climate, and public-sector domains."
 ---
 
 Below is a selection of projects that reflect my work in **predictive modeling, LLMs,
