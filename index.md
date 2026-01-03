@@ -3,6 +3,9 @@ layout: single
 title: "Hi, I’m Hamid"
 permalink: /
 author_profile: true
+description: "Predictive modeling, large language models, and simulation for energy, infrastructure, and climate decision-making."
+header:
+  og_image: /assets/images/profile.jpg
 ---
 
 ### Data Scientist · Predictive Modeling · LLMs · Energy & Climate Systems
