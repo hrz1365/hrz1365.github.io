@@ -40,7 +40,8 @@ Python, Monte Carlo Simulation, Vehicle Telematics Data, Forecasting, Datawrappe
 - Identified potential constraints
 - Compared investment strategies under uncertainty
 
-🔗 [Project Link](https://www.nationalgrid.com/us/EVhighway)
+🔗 [Project Link 1](https://www.nationalgrid.com/us/EVhighway)
+🔗 [Project Link 2](https://rmi.org/insight/northeast-freight-corridor-charging-plan/)
 🔗 [Full Report Link](https://www.nationalgrid.com/document/566386/download)
 🔗 [Summary Link](https://www.nationalgrid.com/document/566391/download)
 
