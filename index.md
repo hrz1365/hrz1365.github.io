@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hi, I’m Hamid"
+title: "Hi, I’m Hamidreza Zoraghein"
 permalink: /
 author_profile: true
 description: "Predictive modeling, large language models, and simulation for energy, infrastructure, and climate decision-making."
